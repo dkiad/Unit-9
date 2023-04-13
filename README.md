@@ -14,7 +14,7 @@ Vulnerability #1: Cross Site Scripting
 Description:
 - I used my safari as my second browser and trusted the website. I used the  "public/hacktools/change_session_id.php”. I changed the end of the URL on both pages. Once, changing the URL for both browsers, I was able to login on them both. 
 
-<img src="blue(2).gif">
+<img src="Blue.gif">
 
 
 ## Red
